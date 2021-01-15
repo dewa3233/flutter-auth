@@ -1,6 +1,8 @@
-# flutter_auth
+# Flutter_auth
 
-A new Flutter application.
+A Flutter UI Login, Welcome, Signup Page example.
+
+![image](https://user-images.githubusercontent.com/33515329/104648412-d93f8f00-5691-11eb-94e9-d1ecedd7c9f8.png)
 
 ## Getting Started
 
